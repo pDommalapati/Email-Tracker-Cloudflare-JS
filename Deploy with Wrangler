@@ -1,0 +1,13 @@
+# wrangler.toml
+name = "email-tracker"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+# Replace with your namespace id
+[[kv_namespaces]]
+binding = "EMAIL_OPENS"
+id = "<KV_NAMESPACE_ID>"
+
+# Do NOT commit real secrets; use `wrangler secret put STATS_TOKEN`
+[vars]
+# STATS_TOKEN = "set-at-deploy"

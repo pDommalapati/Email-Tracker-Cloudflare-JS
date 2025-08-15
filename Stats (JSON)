@@ -1,0 +1,2 @@
+GET /stats?c=demo&r=user123&t=<STATS_TOKEN>
+GET /stats?c=demo&r=user123&t=<STATS_TOKEN>&details=1

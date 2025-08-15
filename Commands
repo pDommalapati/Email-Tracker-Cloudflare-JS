@@ -1,0 +1,4 @@
+npm i -g wrangler
+wrangler kv namespace list           # find your namespace id
+wrangler secret put STATS_TOKEN
+wrangler deploy

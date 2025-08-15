@@ -1,0 +1,5 @@
+Image proxies (e.g., Gmail/Apple) can prefetch images → counts may include proxy opens.
+
+Keep your STATS_TOKEN secret; treat dashboard URLs as sensitive.
+
+Free tier usage: Works comfortably for small/medium personal volumes.

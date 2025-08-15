@@ -24,3 +24,6 @@ Built for **$0** within free tiers.
 4. **Add variable** `STATS_TOKEN` (random string).
 5. Paste `worker.js` → **Deploy**.
 6. Visit: `https://<your-worker>.workers.dev/dashboard?t=<STATS_TOKEN>`.
+
+Images:
+<img width="1280" height="800" alt="Screenshot 2025-08-15 at 12 56 26 AM" src="https://github.com/user-attachments/assets/32b36622-15f5-4a41-9d6f-f17373bdf107" />
